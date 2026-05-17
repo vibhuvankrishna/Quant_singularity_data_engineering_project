@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/singularity Intern Project/main_folder/mlflow_data/359401235209162652/cef7841495c2494bb48eba702d855938/artifacts
+end_time: 1779002086638
+entry_point_name: ''
+experiment_id: '359401235209162652'
+lifecycle_stage: active
+run_id: cef7841495c2494bb48eba702d855938
+run_name: Phase 2 - PyArrow Ingestion + Zstd Compression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779002085567
+status: 3
+tags: []
+user_id: vibhu

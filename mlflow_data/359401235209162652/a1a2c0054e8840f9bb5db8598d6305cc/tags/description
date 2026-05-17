@@ -1,0 +1,1 @@
+Applied strict UINT32 downcasting, ENUM dictionary encodings, and DATE/FLOAT column types

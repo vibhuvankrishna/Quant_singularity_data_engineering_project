@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/singularity Intern Project/main_folder/mlflow_data/359401235209162652/4881704bba4644409e20c7a4528c62b5/artifacts
+end_time: 1779026492058
+entry_point_name: ''
+experiment_id: '359401235209162652'
+lifecycle_stage: active
+run_id: 4881704bba4644409e20c7a4528c62b5
+run_name: dashing-yak-477
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779026489052
+status: 3
+tags: []
+user_id: vibhu

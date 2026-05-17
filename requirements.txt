@@ -1,0 +1,9 @@
+pandas
+polars
+duckdb
+pyarrow
+mlflow
+pytest
+matplotlib
+seaborn
+PyPDF2

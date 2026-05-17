@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/singularity Intern Project/main_folder/mlflow_data/359401235209162652/abefe54e3cd44572aec05be4ede633ef/artifacts
+end_time: 1779002087788
+entry_point_name: ''
+experiment_id: '359401235209162652'
+lifecycle_stage: active
+run_id: abefe54e3cd44572aec05be4ede633ef
+run_name: Phase 3 - Native DuckDB Ingestion (COPY Engine)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779002086648
+status: 3
+tags: []
+user_id: vibhu

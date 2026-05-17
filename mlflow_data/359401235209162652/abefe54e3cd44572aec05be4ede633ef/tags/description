@@ -1,0 +1,1 @@
+Migrated to native C++ DuckDB COPY writer and enabled V2 delta integer timestamp packing

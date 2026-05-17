@@ -1,0 +1,5 @@
+Function,Count,Median_Latency_ms,P99_Latency_ms,Total_WallClock_ms
+get_price,100,6.763,10.653,710.47
+get_signals,100,8.459,10.595,865.496
+get_features,100,2.871,4.851,298.489
+get_features_batch,1000,0.033,0.033,33.443

@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/singularity Intern Project/main_folder/mlflow_data/359401235209162652/475ddc028b044bf982e5ed11e778f799/artifacts
+end_time: 1779002085557
+entry_point_name: ''
+experiment_id: '359401235209162652'
+lifecycle_stage: active
+run_id: 475ddc028b044bf982e5ed11e778f799
+run_name: Phase 1 - Baseline Ingestion (PyArrow + PLAIN)
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1779002084470
+status: 3
+tags: []
+user_id: vibhu
